@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
   // レスポンスの本文
-  res.end('Hello, World from Node.js using Node 20 LTS!\n');
+  res.end('Hello, World from Node.js using Node 200000 LTS!\n');
 });
 
 // サーバーをポート3000で待機
