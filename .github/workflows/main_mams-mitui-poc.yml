@@ -59,4 +59,4 @@ jobs:
           app-name: 'mams-mitui-poc'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F0FD71883B848F4A0EE09BF7D165F72 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A65C8A44D3145D084124577C59F89EF }}
